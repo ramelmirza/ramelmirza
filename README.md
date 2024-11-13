@@ -1,5 +1,5 @@
 ## Hi I'm Ramel
-(https://github.com/ramelmirza/ramelmirza/raw/main/Screenshot_20241113_111816_Gallery.jpg)
+![Alt Text](https://github.com/ramelmirza/ramelmirza/raw/main/Screenshot_20241113_111816_Gallery.jpg)
 
 <!--
 **ramelmirza/ramelmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
