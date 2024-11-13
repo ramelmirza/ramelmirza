@@ -1,5 +1,7 @@
-## Hi I'm Ramel
+### Hi there, I'm Ramel Mirza
 ![Alt Text](https://github.com/ramelmirza/ramelmirza/raw/main/Screenshot_20241113_111816_Gallery.jpg)
+
+# I'm gaining comfortability with data analytics and I eventually want to pursue higher education.
 
 <!--
 **ramelmirza/ramelmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
