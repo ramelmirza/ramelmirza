@@ -1,7 +1,8 @@
 ### Hi!
 ![Alt Text](https://github.com/ramelmirza/ramelmirza/raw/main/Screenshot_20241113_111816_Gallery.jpg)
 
-I'm Ramel Mirza. I'm gaining comfortability with analytics and my long-term goal is to pursue a higher education.
+I'm Ramel Mirza - ^ that's a picture of me when I was handsome ^
+I'm gaining comfortability with analytics and my long-term goal is to pursue a higher education.
 
 <!--
 **ramelmirza/ramelmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
