@@ -3,6 +3,7 @@
 
 I'm Ramel Mirza - that's a picture of me when I was handsome;
 <br />
+<br />
 I'm gaining comfortability with analytics and my long-term goal is to pursue a higher education;
 
 <!--
